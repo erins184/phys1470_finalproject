@@ -1,2 +1,5 @@
 # phys1470_finalproject
-quantum tic tac toe 
+
+Project Title: Quantum Tic Tac Toe 
+
+Group Member Names: Erin Stumbaugh, Gabrielle-Marie Cosmiano, Lucas Ribaudo
